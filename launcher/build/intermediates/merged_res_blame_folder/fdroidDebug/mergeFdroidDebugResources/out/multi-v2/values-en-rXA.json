@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.launcher3.launcher-mergeFdroidDebugResources-6:/values-en-rXA/values-en-rXA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-en-rXA\\plurals.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "220,57",
+                        "endLines": "9,5",
+                        "endColumns": "14,14",
+                        "endOffsets": "373,214"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,210",
+                        "endLines": "5,9",
+                        "endColumns": "14,14",
+                        "endOffsets": "205,364"
+                    }
+                }
+            ]
+        }
+    ]
+}

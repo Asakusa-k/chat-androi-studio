@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.launcher3.launcher-mergeFdroidDebugResources-6:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-sw720dp\\config.xml",
+                    "from": {
+                        "startLines": "1,9,2,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "17,327,64,230",
+                        "endColumns": "45,71,44,75",
+                        "endOffsets": "58,394,104,301"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,173,638",
+                        "endColumns": "45,71,44,75",
+                        "endOffsets": "96,168,213,709"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "18,20,19,24,25,26,23",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "727,858,785,1010,1066,1123,955",
+                        "endColumns": "56,67,71,54,55,57,53",
+                        "endOffsets": "779,921,852,1060,1117,1176,1004"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "218,275,343,415,470,526,584",
+                        "endColumns": "56,67,71,54,55,57,53",
+                        "endOffsets": "270,338,410,465,521,579,633"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-sw720dp\\styles.xml",
+                    "from": {
+                        "startLines": "21,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "693,1338",
+                        "endLines": "29,38",
+                        "endColumns": "12,12",
+                        "endOffsets": "1306,1676"
+                    },
+                    "to": {
+                        "startLines": "13,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "714,1324",
+                        "endLines": "21,28",
+                        "endColumns": "12,12",
+                        "endOffsets": "1319,1656"
+                    }
+                }
+            ]
+        }
+    ]
+}

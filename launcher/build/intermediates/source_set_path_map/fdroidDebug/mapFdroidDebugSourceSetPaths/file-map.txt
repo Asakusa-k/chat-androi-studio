@@ -1,0 +1,12 @@
+com.android.launcher3.launcher-core-1.0.0-0 C:\Users\Asus\.gradle\caches\8.12\transforms\5e6b0088e6ff148957d04e21e30daa83\transformed\core-1.0.0\res
+com.android.launcher3.launcher-media-1.0.0-1 C:\Users\Asus\.gradle\caches\8.12\transforms\b3b87dc2c4a0237ae8466e50a9141845\transformed\media-1.0.0\res
+com.android.launcher3.launcher-coordinatorlayout-1.0.0-2 C:\Users\Asus\.gradle\caches\8.12\transforms\d58e890eb34831a8b7c116bc39603a07\transformed\coordinatorlayout-1.0.0\res
+com.android.launcher3.launcher-recyclerview-1.0.0-3 C:\Users\Asus\.gradle\caches\8.12\transforms\fc03d86467689be887931e014e6e38c7\transformed\recyclerview-1.0.0\res
+com.android.launcher3.launcher-fdroid-4 C:\Users\Asus\Downloads\VirtualApp202410\launcher\build\generated\res\resValues\fdroid\debug
+com.android.launcher3.launcher-packageFdroidDebugResources-5 C:\Users\Asus\Downloads\VirtualApp202410\launcher\build\intermediates\incremental\fdroidDebug\packageFdroidDebugResources\merged.dir
+com.android.launcher3.launcher-packageFdroidDebugResources-6 C:\Users\Asus\Downloads\VirtualApp202410\launcher\build\intermediates\incremental\fdroidDebug\packageFdroidDebugResources\stripped.dir
+com.android.launcher3.launcher-fdroidDebug-7 C:\Users\Asus\Downloads\VirtualApp202410\launcher\build\intermediates\merged_res\fdroidDebug\mergeFdroidDebugResources
+com.android.launcher3.launcher-launcher-8 C:\Users\Asus\Downloads\VirtualApp202410\launcher\res
+com.android.launcher3.launcher-debug-9 C:\Users\Asus\Downloads\VirtualApp202410\launcher\src\debug\res
+com.android.launcher3.launcher-fdroid-10 C:\Users\Asus\Downloads\VirtualApp202410\launcher\src\fdroid\res
+com.android.launcher3.launcher-fdroidDebug-11 C:\Users\Asus\Downloads\VirtualApp202410\launcher\src\fdroidDebug\res

@@ -1,0 +1,225 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3/*
+4**
+5** Copyright 2016, The Android Open Source Project
+6**
+7** Licensed under the Apache License, Version 2.0 (the "License");
+8** you may not use this file except in compliance with the License.
+9** You may obtain a copy of the License at
+10**
+11**     http://www.apache.org/licenses/LICENSE-2.0
+12**
+13** Unless required by applicable law or agreed to in writing, software
+14** distributed under the License is distributed on an "AS IS" BASIS,
+15** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+16** See the License for the specific language governing permissions and
+17** limitations under the License.
+18*/
+19-->
+20<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+21    package="com.android.launcher3.debug"
+22    android:versionCode="30907"
+23    android:versionName="3.9" >
+24
+25    <uses-sdk
+25-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:23:5-73
+26        android:minSdkVersion="14"
+26-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:23:45-71
+27        android:targetSdkVersion="27" />
+27-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:23:15-44
+28
+29    <!--
+30    The manifest defines the common entries that should be present in any derivative of Launcher3.
+31    The components should generally not require any changes.
+32
+33    Rest of the components are defined in AndroidManifest.xml which is merged with this manifest
+34    at compile time. Note that the components defined in AndroidManifest.xml are also required,
+35    with some minor changed based on the derivative app.
+36    -->
+37    <permission
+37-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:33:5-38:67
+38        android:name="com.android.launcher.permission.INSTALL_SHORTCUT"
+38-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:34:9-72
+39        android:description="@string/permdesc_install_shortcut"
+39-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:38:9-64
+40        android:label="@string/permlab_install_shortcut"
+40-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:37:9-57
+41        android:permissionGroup="android.permission-group.SYSTEM_TOOLS"
+41-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:35:9-72
+42        android:protectionLevel="dangerous" />
+42-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:36:9-44
+43
+44    <uses-feature
+44-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:40:5-88
+45        android:name="android.hardware.telephony"
+45-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:40:19-60
+46        android:required="false" />
+46-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:40:61-85
+47
+48    <uses-permission android:name="android.permission.CALL_PHONE" />
+48-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:41:5-69
+48-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:41:22-66
+49    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+49-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:42:5-72
+49-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:42:22-69
+50    <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
+50-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:43:5-78
+50-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:43:22-75
+51    <uses-permission android:name="android.permission.BIND_APPWIDGET" />
+51-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:44:5-73
+51-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:44:22-70
+52    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+52-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:45:5-80
+52-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:45:22-77
+53    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+53-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:46:5-81
+53-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:46:22-78
+54
+55    <application
+55-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:48:5-126:19
+56        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+56-->[androidx.core:core:1.0.0] C:\Users\Asus\.gradle\caches\8.12\transforms\5e6b0088e6ff148957d04e21e30daa83\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+57        android:backupAgent="com.android.launcher3.LauncherBackupAgent"
+57-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:49:9-72
+58        android:debuggable="true"
+59        android:extractNativeLibs="true"
+60        android:fullBackupContent="@xml/backupscheme"
+60-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:51:9-54
+61        android:fullBackupOnly="true"
+61-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:50:9-38
+62        android:hardwareAccelerated="true"
+62-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:52:9-43
+63        android:icon="@drawable/ic_launcher_home"
+63-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:53:9-50
+64        android:label="@string/derived_app_name"
+64-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:54:9-49
+65        android:largeHeap="@bool/config_largeHeap"
+65-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:55:9-51
+66        android:restoreAnyVersion="true"
+66-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:56:9-41
+67        android:supportsRtl="true"
+67-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:57:9-35
+68        android:testOnly="true" >
+69
+70        <!-- Intent received used to install shortcuts from other applications -->
+71        <receiver
+71-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:60:9-67:20
+72            android:name="com.android.launcher3.InstallShortcutReceiver"
+72-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:61:13-73
+73            android:enabled="@bool/enable_install_shortcut_api"
+73-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:63:13-64
+74            android:permission="com.android.launcher.permission.INSTALL_SHORTCUT" >
+74-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:62:13-82
+75            <intent-filter>
+75-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:64:13-66:29
+76                <action android:name="com.android.launcher.action.INSTALL_SHORTCUT" />
+76-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:65:17-87
+76-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:65:25-84
+77            </intent-filter>
+78        </receiver>
+79
+80        <!-- Intent received when a session is committed -->
+81        <receiver android:name="com.android.launcher3.SessionCommitReceiver" >
+81-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:70:9-75:20
+81-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:71:13-71
+82            <intent-filter>
+82-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:72:13-74:29
+83                <action android:name="android.content.pm.action.SESSION_COMMITTED" />
+83-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:73:17-86
+83-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:73:25-83
+84            </intent-filter>
+85        </receiver>
+86
+87        <!-- Intent received used to initialize a restored widget -->
+88        <receiver android:name="com.android.launcher3.AppWidgetsRestoredReceiver" >
+88-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:78:9-82:20
+88-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:78:19-82
+89            <intent-filter>
+89-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:79:13-81:29
+90                <action android:name="android.appwidget.action.APPWIDGET_HOST_RESTORED" />
+90-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:80:17-90
+90-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:80:25-88
+91            </intent-filter>
+92        </receiver>
+93
+94        <service
+94-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:84:9-88:19
+95            android:name="com.android.launcher3.dynamicui.ColorExtractionService"
+95-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:84:18-87
+96            android:exported="false"
+96-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:85:13-37
+97            android:permission="android.permission.BIND_JOB_SERVICE"
+97-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:87:13-69
+98            android:process=":wallpaper_chooser" >
+98-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:86:13-49
+99        </service>
+100        <service
+100-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:90:9-94:72
+101            android:name="com.android.launcher3.compat.WallpaperManagerCompatVL$ColorExtractionService"
+101-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:91:13-104
+102            android:exported="false"
+102-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:92:13-37
+103            android:permission="android.permission.BIND_JOB_SERVICE"
+103-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:94:13-69
+104            android:process=":wallpaper_chooser" />
+104-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:93:13-49
+105        <service
+105-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:96:9-102:19
+106            android:name="com.android.launcher3.notification.NotificationListener"
+106-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:96:18-88
+107            android:enabled="@bool/notification_badging_enabled"
+107-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:97:18-70
+108            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" >
+108-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:98:18-92
+109            <intent-filter>
+109-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:99:13-101:29
+110                <action android:name="android.service.notification.NotificationListenerService" />
+110-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:100:17-99
+110-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:100:25-96
+111            </intent-filter>
+112        </service>
+113
+114        <meta-data
+114-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:104:9-105:47
+115            android:name="android.nfc.disable_beam_default"
+115-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:104:20-67
+116            android:value="true" />
+116-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:105:24-44
+117
+118        <activity
+118-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:107:9-116:20
+119            android:name="com.android.launcher3.dragndrop.AddItemActivity"
+119-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:107:19-81
+120            android:autoRemoveFromRecents="true"
+120-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:110:13-49
+121            android:excludeFromRecents="true"
+121-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:109:13-46
+122            android:label="@string/action_add_to_workspace"
+122-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:111:13-60
+123            android:theme="@android:style/Theme.DeviceDefault.Light.Dialog.Alert" >
+123-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:108:13-82
+124            <intent-filter>
+124-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:112:13-115:29
+125                <action android:name="android.content.pm.action.CONFIRM_PIN_SHORTCUT" />
+125-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:113:17-89
+125-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:113:25-86
+126                <action android:name="android.content.pm.action.CONFIRM_PIN_APPWIDGET" />
+126-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:114:17-90
+126-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:114:25-87
+127            </intent-filter>
+128        </activity>
+129
+130        <!--
+131        Should point to the content provider which can be used to dump Launcher3 compatible
+132        worspace configuration to the dump's file descriptor by using launcher_dump.proto
+133        -->
+134        <meta-data
+134-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:122:9-124:70
+135            android:name="com.android.launcher3.launcher_dump_provider"
+135-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:123:13-72
+136            android:value="com.android.launcher3.LauncherProvider" />
+136-->C:\Users\Asus\Downloads\VirtualApp202410\launcher\AndroidManifest-common.xml:124:13-67
+137    </application>
+138
+139</manifest>

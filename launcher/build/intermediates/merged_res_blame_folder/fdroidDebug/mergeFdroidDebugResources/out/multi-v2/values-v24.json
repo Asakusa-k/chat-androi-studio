@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.launcher3.launcher-mergeFdroidDebugResources-6:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-v24\\config.xml",
+                    "from": {
+                        "startLines": "9,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "231,17",
+                        "endLines": "15,7",
+                        "endColumns": "19,19",
+                        "endOffsets": "536,223"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,359",
+                        "endLines": "8,15",
+                        "endColumns": "19,19",
+                        "endOffsets": "354,553"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\8.12\\transforms\\b3b87dc2c4a0237ae8466e50a9141845\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "558,624,685,751",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "619,680,746,813"
+                    }
+                }
+            ]
+        }
+    ]
+}

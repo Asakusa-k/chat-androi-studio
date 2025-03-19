@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.launcher3.launcher-mergeFdroidDebugResources-6:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-v23\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "509"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "616"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-v23\\bools.xml",
+                    "from": {
+                        "startLines": "21,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "757,696",
+                        "endColumns": "56,57",
+                        "endOffsets": "809,749"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,57",
+                        "endOffsets": "107,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

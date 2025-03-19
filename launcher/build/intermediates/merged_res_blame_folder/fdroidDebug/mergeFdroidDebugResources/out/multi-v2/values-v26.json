@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.launcher3.launcher-mergeFdroidDebugResources-6:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-v26\\colors.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "689",
+                        "endColumns": "57",
+                        "endOffsets": "742"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "171",
+                        "endColumns": "57",
+                        "endOffsets": "224"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-v26\\bools.xml",
+                    "from": {
+                        "startLines": "21,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "757,696",
+                        "endColumns": "57,57",
+                        "endOffsets": "810,749"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,57",
+                        "endOffsets": "108,166"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-v26\\styles.xml",
+                    "from": {
+                        "startLines": "20,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "735,1054",
+                        "endLines": "24,29",
+                        "endColumns": "12,12",
+                        "endOffsets": "1048,1363"
+                    },
+                    "to": {
+                        "startLines": "5,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "229,543",
+                        "endLines": "9,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "538,831"
+                    }
+                }
+            ]
+        }
+    ]
+}

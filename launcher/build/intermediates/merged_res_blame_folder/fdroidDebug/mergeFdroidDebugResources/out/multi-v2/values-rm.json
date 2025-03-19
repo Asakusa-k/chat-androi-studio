@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.launcher3.launcher-mergeFdroidDebugResources-6:/values-rm/values-rm.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-rm\\strings.xml",
+                    "from": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "1065",
+                        "endColumns": "68",
+                        "endOffsets": "1129"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

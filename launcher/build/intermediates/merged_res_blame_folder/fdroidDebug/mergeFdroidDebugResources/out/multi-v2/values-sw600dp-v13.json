@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.launcher3.launcher-mergeFdroidDebugResources-6:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-sw600dp\\config.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,17",
+                        "endColumns": "43,38",
+                        "endOffsets": "96,51"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,38",
+                        "endOffsets": "94,133"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\Downloads\\VirtualApp202410\\launcher\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "19,18,25,22",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "789,723,961,880",
+                        "endColumns": "65,64,63,52",
+                        "endOffsets": "850,783,1020,928"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "138,204,269,333",
+                        "endColumns": "65,64,63,52",
+                        "endOffsets": "199,264,328,381"
+                    }
+                }
+            ]
+        }
+    ]
+}

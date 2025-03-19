@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_overview_panel.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/overview_panel.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_mic_color.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_mic_color.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_qsb_hotseat_content.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/qsb_hotseat_content.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxhdpi_widget_resize_frame.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxhdpi/widget_resize_frame.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-mdpi_workspace_bg_dark.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-mdpi/workspace_bg_dark.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xhdpi_ic_allapps.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xhdpi/ic_allapps.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/animator_all_apps_fastscroll_icon_anim.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/animator/all_apps_fastscroll_icon_anim.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_remove_no_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_remove_no_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-hdpi_ic_launcher_home_foreground.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-hdpi/ic_launcher_home_foreground.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_widget_cell_content.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/widget_cell_content.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_discovery_item.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_discovery_item.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-hdpi_ic_allapps_pressed.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-hdpi/ic_allapps_pressed.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-mdpi_widget_resize_frame.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-mdpi/widget_resize_frame.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_hotseat.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/hotseat.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_app_widget_resize_frame.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/app_widget_resize_frame.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_drop_target_bar_horz.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/drop_target_bar_horz.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_notification_main.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/notification_main.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_google_search_fallback.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_google_search_fallback.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_all_apps_search_hint.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/all_apps_search_hint.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxhdpi_ic_allapps.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxhdpi/ic_allapps.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_appwidget_not_ready.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/appwidget_not_ready.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-hdpi_ic_allapps.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-hdpi/ic_allapps.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxxhdpi_widget_resize_shadow.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxxhdpi/widget_resize_shadow.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xhdpi_ic_launcher_home_foreground.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xhdpi/ic_launcher_home_foreground.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_user_folder_icon_normalized.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/user_folder_icon_normalized.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_search_container_all_apps_google.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/search_container_all_apps_google.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-mdpi_ic_allapps.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-mdpi/ic_allapps.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-v24_ic_super_g_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-v24/ic_super_g_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_all_apps_bg_icon_1.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_all_apps_bg_icon_1.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-land_launcher.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-land/launcher.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_discovery_loading_divider.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_discovery_loading_divider.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/animator_discovery_bounce.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/animator/discovery_bounce.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-v23_search_container_all_apps_include.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-v23/search_container_all_apps_include.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_device_profiles.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/device_profiles.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_apps_search_icon_template.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/apps_search_icon_template.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_dw_tablet_hotseat.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/dw_tablet_hotseat.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_fast_scroller.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_fast_scroller.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xxhdpi_ic_launcher_home_background.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xxhdpi/ic_launcher_home_background.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-sw720dp_search_container_hotseat.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-sw720dp/search_container_hotseat.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_launcher_preferences.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/launcher_preferences.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_bg_celllayout.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/bg_celllayout.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_smartspace_twolines.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/smartspace_twolines.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/animator_overview_button_anim.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/animator/overview_button_anim.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_allapps_search.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_allapps_search.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xhdpi_workspace_bg_dark.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xhdpi/workspace_bg_dark.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/interpolator_folder_interpolator.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/interpolator/folder_interpolator.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_default_workspace_5x5.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/default_workspace_5x5.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-hdpi_ic_launcher_home_background.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-hdpi/ic_launcher_home_background.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxhdpi_ic_allapps_pressed.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxhdpi/ic_allapps_pressed.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_qsb_icon_click_feedback.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/qsb_icon_click_feedback.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_horizontal_ellipsis.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/horizontal_ellipsis.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_icon.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_icon.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_default_workspace_4x4.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/default_workspace_4x4.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_zzz_dummy_widget.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/zzz_dummy_widget.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_folder_icon.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/folder_icon.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xxxhdpi_ic_launcher_home_background.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xxxhdpi/ic_launcher_home_background.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxhdpi_widget_resize_shadow.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxhdpi/widget_resize_shadow.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_backupscheme.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/backupscheme.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_deep_shortcut.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/deep_shortcut.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/color-v24_all_apps_bg_hand_fill_dark.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/color-v24/all_apps_bg_hand_fill_dark.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_round_rect_primary.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/round_rect_primary.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxxhdpi_widget_resize_frame.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxxhdpi/widget_resize_frame.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_search_container_all_apps.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/search_container_all_apps.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/raw_downgrade_schema.json.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/raw/downgrade_schema.json"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_system_shortcut.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/system_shortcut.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_app_edit_bottom_sheet.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/app_edit_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_popup_container.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/popup_container.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-mdpi_workspace_bg.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-mdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/animator-v23_discovery_bounce.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/animator-v23/discovery_bounce.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xxxhdpi_ic_launcher_home_foreground.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xxxhdpi/ic_launcher_home_foreground.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/anim_task_open_enter.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/anim/task_open_enter.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_widget_internal_focus_bg.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/widget_internal_focus_bg.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_dw_hotseat_5.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/dw_hotseat_5.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_star_rating.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_star_rating.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/interpolator_decelerate_quint.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/interpolator/decelerate_quint.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-mdpi_ic_allapps_pressed.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-mdpi/ic_allapps_pressed.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_drop_target_bar_vert.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/drop_target_bar_vert.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_search_container_workspace.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/search_container_workspace.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_default_workspace_5x6.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/default_workspace_5x6.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_info_no_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_info_no_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_edit_no_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_edit_no_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_widget.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_widget.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_page_indicator.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/page_indicator.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/color_primary_text_material_light.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/color/primary_text_material_light.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xhdpi_ic_launcher_home.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xhdpi/ic_launcher_home.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-land_search_container_hotseat.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-land/search_container_hotseat.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xxhdpi_ic_launcher_home_foreground.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xxhdpi/ic_launcher_home_foreground.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xhdpi_ic_allapps_pressed.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xhdpi/ic_allapps_pressed.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_appwidget_error.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/appwidget_error.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_deep_shortcuts_drag_handle.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/deep_shortcuts_drag_handle.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-v24_ic_remove_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-v24/ic_remove_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_smartspace_singleline.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/smartspace_singleline.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/interpolator_decelerate_quart.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/interpolator/decelerate_quart.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_widget_list_divider.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/widget_list_divider.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-hdpi_workspace_bg_dark.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-hdpi/workspace_bg_dark.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_user_folder.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/user_folder.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-mdpi_ic_widget_resize_handle.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-mdpi/ic_widget_resize_handle.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_pending_widget_bg.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/pending_widget_bg.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_launcher_home.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_launcher_home.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_widget_cell.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/widget_cell.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_bg_smartspace.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/bg_smartspace.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xhdpi_ic_launcher_home_background.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xhdpi/ic_launcher_home_background.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_notification_footer.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/notification_footer.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_add_item_confirmation_activity.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/add_item_confirmation_activity.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xhdpi_widget_resize_frame.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xhdpi/widget_resize_frame.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xhdpi_widget_resize_shadow.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xhdpi/widget_resize_shadow.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_file_paths.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_dw_hotseat_6.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/dw_hotseat_6.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_folder_page.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/folder_page.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_dw_hotseat_4.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/dw_hotseat_4.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-sw720dp_all_apps_fast_scroller.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-sw720dp/all_apps_fast_scroller.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_apps_search_qsb_template.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/apps_search_qsb_template.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_app_icon.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/app_icon.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_zzz_weight_watcher.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/zzz_weight_watcher.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-v24_ic_uninstall_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-v24/ic_uninstall_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/interpolator_large_folder_preview_item_open_interpolator.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/interpolator/large_folder_preview_item_open_interpolator.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-v24_ic_mic_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-v24/ic_mic_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_mic_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_mic_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_super_g_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_super_g_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-land_all_apps_fast_scroller.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-land/all_apps_fast_scroller.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_folder_application.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/folder_application.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-hdpi_ic_widget_resize_handle.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-hdpi/ic_widget_resize_handle.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_widgets_view.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/widgets_view.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_all_apps_bg_icon_4.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_all_apps_bg_icon_4.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_all_apps_search_divider.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/all_apps_search_divider.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_widgets_scroll_container.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/widgets_scroll_container.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_super_g_color.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_super_g_color.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/anim_no_anim.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/anim/no_anim.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_bg_qsb_click_feedback.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/bg_qsb_click_feedback.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_default_shortcut.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_default_shortcut.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/color_secondary_text_material_dark.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/color/secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_all_apps_bg_icon_3.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_all_apps_bg_icon_3.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxhdpi_workspace_bg.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxhdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-mdpi_ic_launcher_home_foreground.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-mdpi/ic_launcher_home_foreground.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_app_edit_prefs.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/app_edit_prefs.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_qsb_default_view.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/qsb_default_view.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/color_primary_text_material_dark.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/color/primary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-v26_adaptive_icon_drawable_wrapper.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-v26/adaptive_icon_drawable_wrapper.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxhdpi_ic_widget_resize_handle.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxhdpi/ic_widget_resize_handle.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_all_apps_divider.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/all_apps_divider.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_warning.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_default_workspace_4x5.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/default_workspace_4x5.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-port_search_container_hotseat.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-port/search_container_hotseat.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/interpolator_large_folder_preview_item_close_interpolator.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/interpolator/large_folder_preview_item_close_interpolator.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xxxhdpi_ic_launcher_home.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xxxhdpi/ic_launcher_home.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/color-v24_all_apps_bg_hand_fill.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/color-v24/all_apps_bg_hand_fill.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_dw_phone_hotseat.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/dw_phone_hotseat.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_system_shortcut_icon_only.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/system_shortcut_icon_only.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxxhdpi_workspace_bg_dark.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxxhdpi/workspace_bg_dark.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xhdpi_workspace_bg.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xhdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_all_apps_button_icon.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/all_apps_button_icon.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_all_apps_bg_icon_2.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_all_apps_bg_icon_2.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_setting.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/color_qsb_icon_tint.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/color/qsb_icon_tint.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-v24_ic_info_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-v24/ic_info_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/interpolator_disco_bounce.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/interpolator/disco_bounce.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-port_launcher.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-port/launcher.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_gutter_horizontal.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/gutter_horizontal.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_shortcuts_item.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/shortcuts_item.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_button.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_button.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_gradient_bg.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/gradient_bg.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-hdpi_ic_launcher_home.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-hdpi/ic_launcher_home.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_divider.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_divider.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxhdpi_workspace_bg_dark.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxhdpi/workspace_bg_dark.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_wallpaper.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_wallpaper.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xhdpi_ic_widget_resize_handle.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xhdpi/ic_widget_resize_handle.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxxhdpi_workspace_bg.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxxhdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_notification_pref_warning.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/notification_pref_warning.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_system_shortcut_icons.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/system_shortcut_icons.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-hdpi_widget_resize_frame.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-hdpi/widget_resize_frame.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-hdpi_workspace_bg.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-hdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_default_workspace_3x3.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/default_workspace_3x3.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_notification.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/notification.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_widgets_list_row_view.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/widgets_list_row_view.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-hdpi_widget_resize_shadow.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-hdpi/widget_resize_shadow.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_empty_search.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_empty_search.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_instant_app_badge.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_instant_app_badge.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_uninstall_no_shadow.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_uninstall_no_shadow.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_workspace_screen.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/workspace_screen.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-mdpi_ic_launcher_home_background.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-mdpi/ic_launcher_home_background.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_all_apps_bg_hand.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_all_apps_bg_hand.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-mdpi_widget_resize_shadow.9.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-mdpi/widget_resize_shadow.9.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_search_container_all_apps_include.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/search_container_all_apps_include.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/color_secondary_text_material_light.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/color/secondary_text_material_light.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-xxhdpi_ic_launcher_home.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-xxhdpi/ic_launcher_home.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-v26_ic_launcher_home.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-v26/ic_launcher_home.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable-xxxhdpi_ic_widget_resize_handle.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable-xxxhdpi/ic_widget_resize_handle.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout-sw720dp_launcher.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout-sw720dp/launcher.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/xml_default_workspace_6x6.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/xml/default_workspace_6x6.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/mipmap-mdpi_ic_launcher_home.png.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/mipmap-mdpi/ic_launcher_home.png"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/drawable_ic_smartspace_preferences.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/drawable/ic_smartspace_preferences.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_widgets_bottom_sheet.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/widgets_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.android.launcher3.launcher-fdroidDebug-8:/layout_all_apps_search_market.xml.flat",
+        "source": "com.android.launcher3.launcher-launcher-9:/layout/all_apps_search_market.xml"
+    }
+]
